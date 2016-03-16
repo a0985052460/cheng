@@ -1,6 +1,6 @@
 [user]
-	name = Chuan-Ju Wang
-	email = jerewang@gmail.com
+	name = Bo-Lun Cheng
+	email = a0985052460@gmail.com
 [color]
     status = auto
     diff = auto
@@ -10,11 +10,10 @@
 [merge]
     tool = vimdiff
 [core]
-	excludesfile = /Users/jerewang/.gitignore_global
+	excludesfile = /Home/u10316053/.gitignore_global
 [alias]
     bh = branch
     st = status
-    co = checkout
     ls = ls-files
     lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative
 [difftool "sourcetree"]
